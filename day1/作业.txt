@@ -1,0 +1,7 @@
+1. 实现网页数据抓取:
+	https://www.lagou.com/jobs/list_Python%E7%88%AC%E8%99%AB%E5%B7%A5%E7%A8%8B%E5%B8%88?labelWords=&fromSearch=true&suginput=
+	百度词典翻译 - post请求
+	知乎首页数据
+	手机抓包 获取到数据接口 要视频的
+
+交作业qq:2807613749
